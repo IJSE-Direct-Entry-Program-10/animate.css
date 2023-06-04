@@ -1,0 +1,11 @@
+{
+  "name": "animate.css",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "normalize.css": "^8.0.1"
+  }
+}
